@@ -1,0 +1,4 @@
+ LastName: Mucunguzi 
+ FirstName: Samuel
+ Favourite Food: Rice and chicken
+ Favourite Colour: Pink
