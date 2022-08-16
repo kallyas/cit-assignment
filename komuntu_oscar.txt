@@ -1,0 +1,4 @@
+FirstName: Oscar
+LastName: Komuntu
+FavouriteColor: Red
+FavoriteFood: Chappati n Liver
